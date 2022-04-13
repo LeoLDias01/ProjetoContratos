@@ -1,0 +1,22 @@
+use Concilig;
+
+Create table C_Contratos
+
+(	
+
+	nome_cliente varchar(40),
+	cpf_cliente varchar(40),
+    	contrato varchar(40),
+    	produto varchar(40),
+	vencimento varchar(40),
+	valor varchar(40)
+)
+
+
+CREATE TABLE Users
+(
+  cpf_user varchar (40) ,
+  senha_user varchar (40)
+)
+
+
