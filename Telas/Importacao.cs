@@ -46,7 +46,6 @@ namespace ProjetoContratos
                 {
                     //Pega o caminho do arquivo
                     filePath = openFileDialog.FileName;
-
                     //Lê o conteúdo
                     var fileStream = openFileDialog.OpenFile();
                 }
